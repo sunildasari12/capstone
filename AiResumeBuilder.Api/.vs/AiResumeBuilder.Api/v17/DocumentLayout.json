@@ -1,0 +1,607 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B59F24-261E-4F51-83B7-4F1797688D33}|AiResumeBuilder.Tests\\AiResumeBuilder.Tests.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.tests\\controllers\\userscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B59F24-261E-4F51-83B7-4F1797688D33}|AiResumeBuilder.Tests\\AiResumeBuilder.Tests.csproj|solutionrelative:airesumebuilder.tests\\controllers\\userscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\controllers\\resumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\controllers\\resumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B59F24-261E-4F51-83B7-4F1797688D33}|AiResumeBuilder.Tests\\AiResumeBuilder.Tests.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.tests\\services\\resumeservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B59F24-261E-4F51-83B7-4F1797688D33}|AiResumeBuilder.Tests\\AiResumeBuilder.Tests.csproj|solutionrelative:airesumebuilder.tests\\services\\resumeservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\airesumebuilder.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\airesumebuilder.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B59F24-261E-4F51-83B7-4F1797688D33}|AiResumeBuilder.Tests\\AiResumeBuilder.Tests.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.tests\\airesumebuilder.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75B59F24-261E-4F51-83B7-4F1797688D33}|AiResumeBuilder.Tests\\AiResumeBuilder.Tests.csproj|solutionrelative:airesumebuilder.tests\\airesumebuilder.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\services\\resumeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\services\\resumeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B59F24-261E-4F51-83B7-4F1797688D33}|AiResumeBuilder.Tests\\AiResumeBuilder.Tests.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B59F24-261E-4F51-83B7-4F1797688D33}|AiResumeBuilder.Tests\\AiResumeBuilder.Tests.csproj|solutionrelative:airesumebuilder.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\dtos\\resumeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\dtos\\resumeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\dtos\\resumeupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\dtos\\resumeupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\dtos\\resumedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\dtos\\resumedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\dtos\\resumecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\dtos\\resumecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\dtos\\authresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\dtos\\authresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\services\\iaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\services\\iaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\controllers\\exportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\controllers\\exportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\services\\iresumeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\services\\iresumeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\models\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\models\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\repositories\\resumerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\repositories\\resumerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|d:\\wipro\\capstone3\\airesumebuilder.api\\airesumebuilder.api\\repositories\\iresumerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A528BFB6-1825-44D1-9808-5C0F0DF89DFE}|AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj|solutionrelative:airesumebuilder.api\\repositories\\iresumerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Program.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\Program.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Program.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:31:51.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\Models\\AppUser.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Models\\AppUser.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\Models\\AppUser.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwCMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T15:41:21.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResumeController.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Controllers\\ResumeController.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\Controllers\\ResumeController.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Controllers\\ResumeController.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\Controllers\\ResumeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T15:53:58.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:17:23.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResumeServiceTests.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Tests\\Services\\ResumeServiceTests.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Tests\\Services\\ResumeServiceTests.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Tests\\Services\\ResumeServiceTests.cs",
+              "RelativeToolTip": "AiResumeBuilder.Tests\\Services\\ResumeServiceTests.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAcwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T05:05:48.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T15:54:19.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AiResumeBuilder.Api.csproj",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj",
+              "RelativeToolTip": "AiResumeBuilder.Api\\AiResumeBuilder.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-30T08:41:54.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:19:54.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resume.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Models\\Resume.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\Models\\Resume.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Models\\Resume.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\Models\\Resume.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T15:41:00.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersControllerTests.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Tests\\Controllers\\UsersControllerTests.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Tests\\Controllers\\UsersControllerTests.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Tests\\Controllers\\UsersControllerTests.cs",
+              "RelativeToolTip": "AiResumeBuilder.Tests\\Controllers\\UsersControllerTests.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:00:39.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AiResumeBuilder.Tests.csproj",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Tests\\AiResumeBuilder.Tests.csproj",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Tests\\AiResumeBuilder.Tests.csproj",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Tests\\AiResumeBuilder.Tests.csproj",
+              "RelativeToolTip": "AiResumeBuilder.Tests\\AiResumeBuilder.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-02T05:04:32.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "AiResumeBuilder.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T04:43:41.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ResumeUpdateDto.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\DTOs\\ResumeUpdateDto.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\DTOs\\ResumeUpdateDto.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\DTOs\\ResumeUpdateDto.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\DTOs\\ResumeUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:09:13.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ResumeUpdate.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\DTOs\\ResumeUpdate.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\DTOs\\ResumeUpdate.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\DTOs\\ResumeUpdate.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\DTOs\\ResumeUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:01:15.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ResumeDtos.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\DTOs\\ResumeDtos.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\DTOs\\ResumeDtos.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\DTOs\\ResumeDtos.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\DTOs\\ResumeDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:13:34.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResumeService.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Services\\ResumeService.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\Services\\ResumeService.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Services\\ResumeService.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\Services\\ResumeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:27:19.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ResumeCreateDto.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\DTOs\\ResumeCreateDto.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\DTOs\\ResumeCreateDto.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\DTOs\\ResumeCreateDto.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\DTOs\\ResumeCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:00:23.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\appsettings.json",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\appsettings.json",
+              "RelativeToolTip": "AiResumeBuilder.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-28T16:33:36.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Services\\IJwtService.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\Services\\IJwtService.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Services\\IJwtService.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\Services\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:25:53.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthResultDto.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\DTOs\\AuthResultDto.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\DTOs\\AuthResultDto.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\DTOs\\AuthResultDto.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\DTOs\\AuthResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:31:35.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T15:52:54.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthDtos.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\DTOs\\AuthDtos.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\DTOs\\AuthDtos.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\DTOs\\AuthDtos.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\DTOs\\AuthDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:12:59.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T15:51:58.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IAiService.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Services\\IAiService.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\Services\\IAiService.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Services\\IAiService.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\Services\\IAiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:25:15.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AiController.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Controllers\\AiController.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\Controllers\\AiController.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Controllers\\AiController.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\Controllers\\AiController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T15:52:28.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AiResumeBuilder.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAMBdwBoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-30T08:14:21.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AiService.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Services\\AiService.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\Services\\AiService.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Services\\AiService.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\Services\\AiService.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowFkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:24:34.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T04:25:32.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwC8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T15:57:18.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\Services\\JwtService.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Services\\JwtService.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\Services\\JwtService.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAACBjwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:26:55.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ExportController.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Controllers\\ExportController.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\Controllers\\ExportController.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Controllers\\ExportController.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\Controllers\\ExportController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T15:53:18.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IResumeService.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Services\\IResumeService.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\Services\\IResumeService.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Services\\IResumeService.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\Services\\IResumeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:26:26.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Experience.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Models\\Experience.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\Models\\Experience.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Models\\Experience.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\Models\\Experience.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T15:40:37.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Education.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Models\\Education.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\Models\\Education.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Models\\Education.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\Models\\Education.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T15:40:03.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ResumeRepository.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Repositories\\ResumeRepository.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\Repositories\\ResumeRepository.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Repositories\\ResumeRepository.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\Repositories\\ResumeRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:18:46.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IResumeRepository.cs",
+              "DocumentMoniker": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Repositories\\IResumeRepository.cs",
+              "RelativeDocumentMoniker": "AiResumeBuilder.Api\\Repositories\\IResumeRepository.cs",
+              "ToolTip": "D:\\wipro\\Capstone3\\AiResumeBuilder.Api\\AiResumeBuilder.Api\\Repositories\\IResumeRepository.cs",
+              "RelativeToolTip": "AiResumeBuilder.Api\\Repositories\\IResumeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:16:14.132Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
